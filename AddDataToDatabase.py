@@ -16,7 +16,7 @@ data = {
             "major": "actor",
             "total_attendance": 6,
             "standing": "G",
-            "last_attendance_time": "2023-6-13, 11:53:00"
+            "last_attendance_time": "2023-6-13 11:53:00"
         },
     "3312":
         {
@@ -24,7 +24,7 @@ data = {
             "major": "actor",
             "total_attendance": 7,
             "standing": "G",
-            "last_attendance_time": "2023-6-13, 11:53:00"
+            "last_attendance_time": "2023-6-13 11:53:00"
         },
     "4231":
         {
@@ -32,15 +32,7 @@ data = {
             "major": "actor",
             "total_attendance": 6,
             "standing": "B",
-            "last_attendance": "2023-6-13, 11:53:00"
-        },
-    "4321":
-        {
-            "name": "Ju Jingyi",
-            "major": "actor",
-            "total_attendance": 6,
-            "standing": "B",
-            "last_attendance_time": "2023-6-13, 11:53:00"
+            "last_attendance": "2023-6-13 11:53:00"
         },
     "1233":
         {
@@ -48,7 +40,7 @@ data = {
             "major": "Programmer",
             "total_attendance": 6,
             "standing": "B",
-            "last_attendance_time": "2023-6-13, 11:53:00"
+            "last_attendance_time": "2023-6-13 11:53:00"
         }
 }
 
